@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    background-color: aliceblue;
+    width: 50%;
+    height: 300px;
+    padding: 50px;
+}
+
+form{display: flex;
+flex-direction: column;
+}
+
+input{width: 100%;
+padding: 10px;
+margin-bottom: 5px;
+border-radius: 0.9999999999999999em;}
+
+button{
+    background-color: crimson;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    margin-top: 10px;
+}

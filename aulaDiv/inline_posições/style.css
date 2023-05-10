@@ -1,0 +1,54 @@
+body{background-color: rgb(207, 207, 2);}
+#Di1{
+    background-color: purple;
+    height: 300px;
+    width: 33%;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+}
+
+#Di2{background-color: rgb(104, 8, 72);
+    height: 300px;
+    width: 33%;
+    display: inline-block;
+    }
+
+#Di3{background-color: rgb(41, 20, 133);
+    height: 300px;
+    width: 33%;
+    display: inline-block;
+    }
+
+#Di1:hover,#Di2:hover,#Di3:hover{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXgczZXVmkTp_ZMVPuo-c5nYa2oiDvFbtNA&usqp=CAU);}
+
+#father{position: relative;
+    background-color: rgb(75, 174, 31);
+height: 500px;
+width: 50%;
+margin-top: 70px;
+border-radius: 50%;
+}
+
+img{width: 150px;
+margin-top: 90px;
+margin-left: 220px;
+border-radius: 25%;}
+
+
+
+#son{position: absolute;
+    background-color: rgb(212, 35, 4);
+height: 100px;
+width: 100px;
+top: -25px;
+right: 50px;
+border-radius: 50%;
+text-align: center;
+}
+h1{color: white;
+    font-family: 'Times New Roman', Times, serif;
+font-size: 28px;
+font-weight: 700;
+margin-top: 35px;}

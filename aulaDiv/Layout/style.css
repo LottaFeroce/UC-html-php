@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header{
+    height: 120px;
+    background-color: rgb(231, 66, 25);
+}
+
+header img{margin-left: 50px;
+    border-radius: 50%;
+    width: 90px;
+    
+}
+
+
+#logo{float: left;}
+
+#buscar{float: right;}
+#buscar input{
+    width: 400px;
+    padding: 12px;
+    margin-right: 550px;
+    margin-top: 25px;
+    border-radius: 0.8%;
+    border: none;
+}
+
+nav{
+    height: 100px;
+    background-color: rgb(179, 245, 125);
+    padding: 10px;
+    text-align: center;
+}
+
+.menu{margin-top: 25px ;
+    background-color: rgba(56, 56, 211, 0.829);
+    padding: 10px 15px;
+    text-decoration: none;
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{float: right;
+margin-right: 20px auto;}
+
+.menu:hover{
+    background-color: rgb(81, 57, 185);
+    color: black;
+}
+
+
+main{
+    background-color: rgb(122, 37, 129);
+    height: 600px;
+    padding: 60px;
+    
+}
+
+section{border-radius: 15%;}
+#section1{
+    background-color: rgb(127, 161, 255);
+    height: 550px;
+    width: 47%;
+    float: left;
+    padding: 20px;
+}
+
+#section2{
+    background-color: rgb(47, 218, 161);
+    height: 550px;
+    width: 47%;
+    float: right;
+    padding: 20px;
+}
+
+article{
+    background-color: rgb(96, 63, 156);
+    height: 240px;
+    width: 80%;
+    margin:30px auto; 
+    padding: 15px;  
+}
+
+#videos
+h1{text-align: center;
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+article img{border-radius: 50%;
+width: 100px;
+height: 100px;
+float: left;}
+
+footer{
+    background-color: blueviolet;
+    height: 100px;
+}

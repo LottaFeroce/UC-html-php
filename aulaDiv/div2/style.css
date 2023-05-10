@@ -1,0 +1,68 @@
+#primaria{border : 1px solid palegreen;
+/*caso não haja comprimento definido ficará automatico*/
+width: 500px;
+height: 500px;
+padding: 900px;
+box-sizing: border-box;
+background-color: crimson;
+margin-top: 50px;
+margin-left: 500px;
+position: absolute;}
+
+#secundaria{border : 1px solid palegreen;
+/*caso não haja comprimento definido ficará automatico*/
+width: 500px;
+height: 500px;
+padding: 800px;
+box-sizing: border-box;
+background-color: rgb(77, 177, 118);
+margin-top: 50px;
+margin-left: 500px;
+position: absolute;}
+
+#terciaria{border : 1px solid palegreen;
+/*caso não haja comprimento definido ficará automatico*/
+width: 500px;
+height: 500px;
+padding: 700px;
+box-sizing: border-box;
+background-color: rgb(8, 73, 33);
+margin-top: 50px;
+margin-left: 500px;
+position: absolute;}
+
+#quaternaria{border : 1px solid palegreen;
+/*caso não haja comprimento definido ficará automatico*/
+width: 500px;
+height: 500px;
+padding: 600px;
+box-sizing: border-box;
+background-color: rgb(32, 25, 129);
+margin-top: 50px;
+margin-left: 500px;
+position: absolute;}
+
+#quintenaria{border : 1px solid palegreen;
+/*caso não haja comprimento definido ficará automatico*/
+width: 500px;
+height: 500px;
+padding: 500px;
+box-sizing: border-box;
+background-color: rgb(76, 192, 212);
+margin-top: 50px;
+margin-left: 500px;
+position: absolute;}
+
+#sextupla{border : 1px solid palegreen;
+/*caso não haja comprimento definido ficará automatico*/
+width: 500px;
+height: 500px;
+padding: 400px;
+box-sizing: border-box;
+background-color: rgb(134, 5, 240);
+margin-top: 50px;
+margin-left: 500px;
+position: absolute;}
+
+
+
